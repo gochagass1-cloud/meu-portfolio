@@ -9,4 +9,4 @@ Sou estudante e desenvolvedor back-end focado em NodeJS
 - docs → Contato profissional
 
 ## 🖼️ Imagem
-!Capa (imagens/capa.png)
+!Capa (imagens/capa.png);
